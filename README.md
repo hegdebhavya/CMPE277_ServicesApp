@@ -25,6 +25,7 @@ PDF Download Activity: Download PDF files from the internet
 #### After download :
 
 ![image](https://user-images.githubusercontent.com/85700971/225826216-be0d3559-1790-478f-9052-23780f216adf.png)
+![image](https://user-images.githubusercontent.com/85700971/227807134-c1418ec9-b486-4ee2-b7ea-e6901b7c9c41.png)
 
 
 
